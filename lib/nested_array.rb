@@ -30,6 +30,6 @@ def matrix_lookup(matrix, row, column)
 end
 
 def matrix_update(matrix, row, column, new_value)
-assembled_matrix[0][1]= "Tiny Ewell"
+assembled_matrix[0][0]= "Tiny Ewell"
   
 end
